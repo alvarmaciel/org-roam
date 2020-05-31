@@ -80,8 +80,7 @@ msgstr "Org-roam es una réplica de  [[https://roamresearch.com/][Roam Research]
 
 #. type: Plain text
 #: org-roam.org:43
-msgid ""
-"Org-roam is a solution for effortless non-hierarchical note-taking with Org-mode. With Org-roam, notes flow naturally, making note-taking fun and easy. "
+msgid "Org-roam is a solution for effortless non-hierarchical note-taking with Org-mode. With Org-roam, notes flow naturally, making note-taking fun and easy. "
 "Org-roam should also work as a plug-and-play solution for anyone already using Org-mode for their personal wiki."
 msgstr ""
 
